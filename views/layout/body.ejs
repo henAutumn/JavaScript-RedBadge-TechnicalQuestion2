@@ -1,0 +1,7 @@
+<div>
+    <% if(product) {%>
+        <%- include('../productpage/productpage', {product}); -%>
+    <% } else {%>
+        <%- include('../splash/index'); -%>
+    <% } %>
+</div>
