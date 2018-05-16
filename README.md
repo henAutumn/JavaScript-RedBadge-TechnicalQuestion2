@@ -25,6 +25,13 @@ Specifically we are going to be recreating two pages:
 - landing/splash page 
 - product page. 
 
+The images of what each of these pages look like are in the images folder. 
+
+- spash1 image has the navbars 
+- section 1 -3 should be on the splash page 
+- footer should be in the footer file
+- product page 1 - 3 has all of the sections you need to create on that page
+
 ### House Keeping
 
 - Going out of scope with the problem is also not needed, granted when you finish with the solution and have  more time, feel free to add extras. 
